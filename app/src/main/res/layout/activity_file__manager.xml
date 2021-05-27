@@ -249,7 +249,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="APKS"
+                android:text="More apps"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 

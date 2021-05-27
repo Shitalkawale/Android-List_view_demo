@@ -9,17 +9,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Profile">
-        <activity android:name="FileManager.File_Manager">
+        <activity android:name="profile_info.Profileinfo">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="ListViewDemo.listViewDemo">
+        <activity android:name="FileManager.File_Manager">
 
         </activity>
-        <activity android:name="CustomeListView.List_view"></activity>
+        <activity android:name="ListViewDemo.listViewDemo"></activity>
+        <activity android:name="CustomeListView.List_view" />
         <activity android:name=".MainActivity" />
     </application>
 
